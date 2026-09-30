@@ -1,0 +1,493 @@
+﻿3. ADQUISICIÓN DE UN UTILITARIO MEDIANTE UNA ALTERNATIVA DE FINANCIAMIENTO INAES
+====================================================================================================
+
+3.1. INTRODUCCIÓN
+
+En el presente punto se analiza la tercera de las alternativas definidas en el anteproyecto: la
+incorporación de un vehículo utilitario propio financiado mediante la línea de asistencia financiera
+del Instituto Nacional de Asociativismo y Economía Social (INAES). Siguiendo la metodología de Sapag
+Chain (2011) para proyectos de modernización de una organización en marcha, la alternativa se evalúa
+en forma incremental, es decir, considerando únicamente los ingresos, ahorros, costos e inversiones
+que se modifican respecto de la situación actual de la cooperativa.
+
+El análisis se estructura en tres partes. En primer lugar, se caracterizan la situación actual y las
+condiciones del financiamiento INAES. En segundo lugar, se definen la alternativa y los supuestos de
+la evaluación. Por último, se elaboran el estado de resultados proyectado y el flujo de fondos, se
+calculan los indicadores de evaluación y se analiza la sensibilidad de los resultados ante
+variaciones en los supuestos adoptados.
+
+3.2. SITUACIÓN ACTUAL DE REFERENCIA
+
+Tal como se describió en el Capítulo I, la Cooperativa de Trabajo Verde Sano resuelve sus
+necesidades de transporte mediante vehículos aportados por sus asociados. El esquema de referencia
+comprende dos rodados: un automóvil, por cuya puesta a disposición la cooperativa abona
+aproximadamente $250.000 mensuales, y una camioneta 4x4, por la que abona aproximadamente $450.000
+mensuales. A estos pagos se agregan las reparaciones y el mantenimiento, que la cooperativa cubre en
+proporción al tiempo de utilización de cada vehículo, y el combustible consumido durante las obras.
+
+Dado que los registros internos detallados no se encontraban disponibles al momento de la
+elaboración de este punto, se adoptaron los supuestos que se exponen en el Cuadro 3.1 para los
+conceptos no cuantificados en el anteproyecto. Estos valores deberán reemplazarse por los datos que
+surjan del relevamiento con el área administrativa y la Tesorería de la cooperativa.
+
+Cuadro 3.1. Costos mensuales y anuales del esquema de transporte actual (pesos de septiembre de 2026)
+--------------------------------------------------------------------------------------------
+Concepto                                             Mensual           Anual          Origen
+--------------------------------------------------------------------------------------------
+Pago por el vehículo 1 (automóvil)                   250.000       3.000.000    Anteproyecto
+Reparaciones proporcionales del vehículo 1            60.000         720.000        Supuesto
+Pago por el vehículo 2 (camioneta 4x4)               450.000       5.400.000    Anteproyecto
+Reparaciones proporcionales del vehículo 2           110.000       1.320.000        Supuesto
+Combustible de ambos vehículos                       820.000       9.840.000        Supuesto
+Fletes contratados para materiales                   180.000       2.160.000        Supuesto
+--------------------------------------------------------------------------------------------
+Total                                              1.870.000      22.440.000                
+--------------------------------------------------------------------------------------------
+
+Además de su costo, el esquema actual presenta limitaciones operativas ya señaladas en el
+anteproyecto: los vehículos no siempre resultan adecuados para trasladar en forma conjunta
+cuadrillas, herramientas y materiales, su disponibilidad depende de la voluntad de los asociados
+propietarios y el traslado de materiales de mayor volumen o peso requiere la contratación de fletes
+a terceros.
+
+3.3. EL FINANCIAMIENTO INAES
+
+3.3.1. Marco normativo y condiciones
+
+El INAES otorga apoyos financieros a cooperativas y mutuales en carácter de préstamos o subsidios,
+conforme a las pautas aprobadas por la Resolución INAES N.° 1287/2015, cuyo procedimiento de
+presentación fue actualizado por la Resolución N.° 295/2020. La norma establece que, cuando de la
+evaluación preliminar surja que la inversión genera posibilidad de repago, la asistencia debe
+otorgarse como préstamo. Por tratarse de un proyecto que reemplaza erogaciones mensuales de la
+cooperativa, corresponde encuadrarlo como préstamo para un proyecto productivo. Las condiciones
+aplicables son las siguientes:
+  • Tasa de interés del 6 % anual efectivo sobre saldos, en pesos y sin cláusula de ajuste.
+  • Bonificación del 50 % del total de los intereses cuando todas las cuotas se abonan en tiempo y
+    forma. El importe bonificado se acumula y se descuenta de las últimas cuotas del préstamo.
+  • Período de gracia de hasta un año, cuando el proyecto lo requiera.
+  • Plazo máximo de cinco años o 60 cuotas mensuales consecutivas.
+  • Destino admitido: compra de equipamiento de cualquier tipo, nuevo o usado. Los fondos no pueden
+    aplicarse al pago de impuestos, por lo que el IVA de la compra debe ser afrontado con recursos
+    propios.
+  • Garantías: aval de otra cooperativa o mutual, aval bancario, prenda en primer grado (solo para
+    préstamos de hasta tres años y con tasación 50 % superior al monto), hipoteca, sociedades de
+    garantía recíproca o fondos de garantía provinciales. En todos los casos se exige el aval
+    personal de los integrantes del Consejo de Administración.
+
+Para su tratamiento, el proyecto debe presentarse con un plan de inversión, un flujo de fondos
+esperado, una memoria descriptiva y un diagrama de Gantt, y la entidad debe tener cumplidas las
+obligaciones de los artículos 41, 48 y 56 de la Ley N.° 20.337 y las declaraciones juradas de la Ley
+N.° 23.427 correspondientes a los tres últimos ejercicios. La aprobación corresponde al Directorio
+del Instituto, que puede denegar un proyecto viable por falta de recursos presupuestarios o por la
+existencia de otras líneas de financiamiento accesibles. Durante 2026 el INAES aprobó 24 apoyos
+financieros en todo el país, entre ellos adquisiciones de vehículos, lo que indica que se trata de
+una fuente disponible pero de cupo reducido.
+
+3.3.2. Situación de la gestión de la cooperativa
+
+A los fines de la evaluación se adoptan los siguientes supuestos sobre la gestión iniciada por la
+cooperativa ante el INAES:
+  • La solicitud se presenta por el 100 % del precio neto de IVA del vehículo, a devolver en 60
+    cuotas mensuales por el sistema francés, sin período de gracia.
+  • La garantía ofrecida es el aval de la federación de cooperativas de trabajo a la que adhiere la
+    entidad, complementado con el aval personal de los consejeros. Se descarta la prenda del propio
+    vehículo porque la norma solo la admite para plazos de hasta tres años.
+  • La cooperativa tiene presentada en término la documentación institucional y contable de sus tres
+    últimos ejercicios, condición necesaria para la evaluación del pedido.
+  • El desembolso se produce en el momento 0 del proyecto y la cooperativa abona todas las cuotas en
+    término, por lo que obtiene la bonificación de intereses.
+
+3.4. DEFINICIÓN DE LA ALTERNATIVA
+
+Se mantiene como referencia el vehículo que originó el proyecto, el Dongfeng Captain W 412 Cabina
+Doble. Se trata de un camión liviano con motor naftero de 1,6 litros y 122 HP, cabina doble de cinco
+plazas, carga útil de 1.940 kg, peso bruto vehicular de 3.490 kg, ruedas traseras duales y caja de
+carga de aproximadamente 2,50 x 1,75 metros, con garantía de fábrica de tres años o 200.000 km. Su
+precio público sugerido es de USD 21.891 más IVA del 10,5 %, es decir, USD 24.190, pagaderos en
+pesos al tipo de cambio vendedor del Banco de la Nación Argentina, que al 28 de septiembre de 2026
+era de $1.550 por dólar.
+
+En cuanto al alcance del reemplazo, se supone que la cooperativa organiza su trabajo en cuatro
+cuadrillas de cuatro a cinco integrantes y que la camioneta 4x4 es el vehículo que traslada a la
+cuadrilla principal con sus herramientas. El utilitario cumple esa función con mayor capacidad de
+carga, por lo que reemplaza por completo a la 4x4. En cambio, la cabina de cinco plazas no permite
+trasladar simultáneamente a todo el personal que hoy transportan ambos vehículos, por lo que el
+automóvil del asociado 1 continúa prestando servicio en las mismas condiciones. Se supone además que
+la caja de carga permite absorber la mitad de los fletes que hoy se contratan para el traslado de
+materiales.
+
+El vehículo se registra a nombre de la cooperativa, condición exigida por el INAES para la rendición
+de cuentas. Dado que su peso bruto es inferior a 3.500 kg, puede ser conducido con licencia de clase
+B. El traslado de personas queda limitado a los asientos de la cabina.
+
+3.5. SUPUESTOS DE LA EVALUACIÓN
+
+La evaluación se realiza sobre un horizonte de cinco años, coincidente con la vida útil económica
+considerada en el anteproyecto, y en moneda constante de septiembre de 2026. Se trabaja en términos
+reales porque los pagos a los asociados, los seguros, el mantenimiento y los demás costos operativos
+se ajustan con la inflación y conservan, por lo tanto, su valor real. La única excepción es la cuota
+del préstamo INAES, que es nominal y fija: su valor en moneda constante se obtiene deflactando cada
+cuota con la trayectoria de inflación esperada. Por coherencia, los flujos reales se descuentan a
+una tasa real.
+
+a) Datos externos relevados
+
+  • Inflación esperada: 1,7 %, 1,6 % y 1,8 % mensual para octubre, noviembre y diciembre de 2026;
+    20,5 % para 2027 y 14,1 % para 2028 (Relevamiento de Expectativas de Mercado del BCRA, agosto de
+    2026). Para los años siguientes se mantiene la última expectativa disponible.
+  • Tasa de descuento real del 5 % anual. Surge de comparar la TAMAR esperada para septiembre de
+    2026 (24,11 % nominal anual, equivalente a 27,0 % efectivo anual) con la inflación esperada para
+    los próximos doce meses (21 %), y representa el costo de oportunidad de los fondos propios de la
+    cooperativa. Al tratarse de una cooperativa de trabajo, el análisis no persigue la maximización
+    de utilidades para accionistas, sino el uso más eficiente de sus recursos.
+  • Patente: 2 % anual de la valuación fiscal, correspondiente a la categoría pick-up según la Ley
+    Impositiva de la Provincia de Santa Fe para 2026. Se supone una valuación igual al precio con
+    IVA y constante en términos reales, lo que constituye un criterio conservador.
+  • Revisión técnica obligatoria: $75.000 por revisión, con una primera inspección a los tres años y
+    luego cada dos años.
+  • Seguro: $150.000 mensuales, dentro del rango de mercado relevado para pick-ups con cobertura de
+    terceros completo en 2026.
+
+b) Tratamiento impositivo
+
+  • Impuesto a las ganancias: la cooperativa se encuentra exenta (artículo 26, inciso d, de la ley
+    del impuesto), por lo que los flujos no incluyen este impuesto y los gastos no desembolsables no
+    generan ahorro fiscal.
+  • IVA: se supone que la cooperativa es responsable inscripta y que el débito fiscal de su
+    facturación permite absorber dentro del primer año el crédito fiscal generado por la compra.
+  • Ingresos brutos: la cooperativa de trabajo se encuentra alcanzada por la exención del artículo
+    212 del Código Fiscal de Santa Fe. El proyecto no genera ingresos nuevos, por lo que no tiene
+    efecto sobre este impuesto.
+  • Contribución especial de la Ley N.° 23.427: su efecto incremental no resulta significativo,
+    porque el mayor activo generado por el vehículo se compensa con la deuda asumida con el INAES.
+
+c) Supuestos sobre la cooperativa, a validar con registros internos
+
+  • Reparaciones proporcionales: $60.000 mensuales para el vehículo 1 y $110.000 para la 4x4.
+  • Combustible: $300.000 mensuales para el vehículo 1 y $520.000 para la 4x4.
+  • Fletes contratados para el traslado de materiales: $180.000 mensuales, de los cuales el
+    utilitario absorbe el 50 %.
+  • Combustible del utilitario: igual al de la 4x4 reemplazada, ya que realiza los mismos recorridos
+    y el fabricante no publica datos de consumo. En consecuencia, el combustible no constituye un
+    costo diferencial.
+  • Mantenimiento del utilitario: $600.000 anuales durante los dos primeros años (services oficiales
+    en garantía y neumáticos) y $1.200.000 anuales desde el tercer año.
+  • Gastos iniciales de patentamiento, gestión del préstamo y constitución de garantías: $1.500.000.
+  • Valor de desecho: 40 % del precio neto al quinto año, estimado por el método comercial. Dado que
+    se trata de una marca de reciente ingreso al país, sin mercado de usados consolidado, este
+    supuesto se somete a análisis de sensibilidad.
+  • Amortización contable del rodado en cinco años por el método de línea recta.
+
+3.6. INVERSIÓN INICIAL Y FINANCIAMIENTO
+
+Cuadro 3.2. Inversión inicial y estructura de financiamiento (pesos de septiembre de 2026)
+--------------------------------------------------------------------------------
+Concepto                                                                 Importe
+--------------------------------------------------------------------------------
+Precio neto del utilitario (USD 21.891 x $1.550)                      33.931.050
+IVA 10,5 %                                                             3.563.450
+Precio con IVA                                                        37.494.500
+Gastos iniciales de patentamiento, gestión y garantías                 1.500.000
+--------------------------------------------------------------------------------
+Inversión inicial total                                               38.994.500
+Préstamo INAES (100 % del precio neto)                                33.931.050
+Aporte propio de la cooperativa                                        5.063.450
+IVA recuperable en el año 1 como crédito fiscal                        3.563.450
+--------------------------------------------------------------------------------
+
+El préstamo de $33.931.050 a una tasa efectiva mensual de 0,487 % determina una cuota fija de
+$653.478. Los intereses totales ascienden a $5.277.601, de los cuales el 50 % ($2.638.801) se
+bonifica por pago en término. Esa bonificación cancela las cuotas 57 a 60 y reduce la cuota 56, por
+lo que el total efectivamente abonado resulta de $36.569.851. El Cuadro 3.3 resume el servicio de la
+deuda por año, en valores nominales y en moneda constante.
+
+Cuadro 3.3. Servicio anual del préstamo INAES
+---------------------------------------------------------------------------------------------------------------
+Concepto                                              Año 1        Año 2        Año 3        Año 4        Año 5
+---------------------------------------------------------------------------------------------------------------
+Intereses (nominal)                               1.822.484    1.461.329    1.078.505      672.712      242.571
+Amortización del capital (nominal)                6.019.246    6.380.401    6.763.225    7.169.018    7.599.160
+Bonificación aplicada (nominal)                           -            -            -            -  (2.638.801)
+Pagos efectivos (nominal)                         7.841.730    7.841.730    7.841.730    7.841.730    5.202.930
+Saldo al cierre (nominal)                        27.911.804   21.531.403   14.768.178    7.599.160            -
+---------------------------------------------------------------------------------------------------------------
+Índice de precios al cierre (base sep-26 = 1)         1,210        1,399        1,597        1,822        2,079
+Pagos efectivos en moneda constante               7.073.689    5.964.728    5.221.329    4.576.099    2.719.554
+---------------------------------------------------------------------------------------------------------------
+
+Como la cuota es fija en pesos, su valor real disminuye a lo largo del plazo. Medidos en moneda de
+septiembre de 2026, los pagos efectivos suman $25.555.398, frente a un capital recibido de
+$33.931.050.
+
+3.7. BENEFICIOS Y COSTOS DIFERENCIALES
+
+Los beneficios de la alternativa son los costos que la cooperativa deja de afrontar respecto de la
+situación actual: el pago al asociado por la 4x4 ($5.400.000 anuales), las reparaciones
+proporcionales de ese vehículo ($1.320.000) y la mitad de los fletes contratados ($1.080.000). En
+total, los ahorros ascienden a $7.800.000 por año. Como contrapartida, la cooperativa asume los
+costos propios del utilitario: seguro ($1.800.000 anuales), patente ($749.890), mantenimiento y
+revisión técnica.
+
+3.8. ESTADO DE RESULTADOS PROYECTADO
+
+El Cuadro 3.4 presenta el estado de resultados incremental de la alternativa, expresado en moneda
+constante. Los ahorros de costos se exponen como ingresos diferenciales. El resultado financiero
+incluye los intereses del préstamo en moneda constante y el resultado por exposición a la inflación
+(RECPAM) que genera la deuda en pesos, ya que su valor real se reduce a medida que aumenta el nivel
+general de precios.
+
+Cuadro 3.4. Estado de resultados proyectado incremental (pesos de septiembre de 2026)
+---------------------------------------------------------------------------------------------------------------------------
+Concepto                                            Año 1        Año 2        Año 3        Año 4        Año 5         Total
+---------------------------------------------------------------------------------------------------------------------------
+Pagos evitados por la 4x4                       5.400.000    5.400.000    5.400.000    5.400.000    5.400.000    27.000.000
+Reparaciones evitadas de la 4x4                 1.320.000    1.320.000    1.320.000    1.320.000    1.320.000     6.600.000
+Fletes evitados                                 1.080.000    1.080.000    1.080.000    1.080.000    1.080.000     5.400.000
+Total ahorros de costos                         7.800.000    7.800.000    7.800.000    7.800.000    7.800.000    39.000.000
+---------------------------------------------------------------------------------------------------------------------------
+Seguro                                        (1.800.000)  (1.800.000)  (1.800.000)  (1.800.000)  (1.800.000)   (9.000.000)
+Patente                                         (749.890)    (749.890)    (749.890)    (749.890)    (749.890)   (3.749.450)
+Mantenimiento                                   (600.000)    (600.000)  (1.200.000)  (1.200.000)  (1.200.000)   (4.800.000)
+Revisión técnica obligatoria                            -            -     (75.000)            -     (75.000)     (150.000)
+Total costos operativos                       (3.149.890)  (3.149.890)  (3.824.890)  (3.749.890)  (3.824.890)  (17.699.450)
+---------------------------------------------------------------------------------------------------------------------------
+Resultado operativo antes de amortizaciones     4.650.110    4.650.110    3.975.110    4.050.110    3.975.110    21.300.550
+Amortización del utilitario                   (6.786.210)  (6.786.210)  (6.786.210)  (6.786.210)  (6.786.210)  (33.931.050)
+Resultado operativo                           (2.136.100)  (2.136.100)  (2.811.100)  (2.736.100)  (2.811.100)  (12.630.500)
+---------------------------------------------------------------------------------------------------------------------------
+Intereses del préstamo (moneda constante)     (1.648.920)  (1.114.772)    (720.974)    (395.226)    (126.532)   (4.006.423)
+RECPAM generado por el préstamo                 5.434.284    2.834.876    1.637.112      897.437      287.316    11.091.024
+Bonificación de intereses obtenida                      -            -            -            -    1.291.050     1.291.050
+Gastos iniciales de gestión y garantías       (1.500.000)            -            -            -            -   (1.500.000)
+Total resultado financiero                      2.285.365    1.720.104      916.138      502.211    1.451.834     6.875.652
+---------------------------------------------------------------------------------------------------------------------------
+Resultado por venta del utilitario                      -            -            -            -   13.572.420    13.572.420
+Resultado antes de impuestos                      149.265    (415.996)  (1.894.962)  (2.233.889)   12.213.154     7.817.572
+Impuesto a las ganancias (exenta)                       -            -            -            -            -             -
+---------------------------------------------------------------------------------------------------------------------------
+Resultado neto incremental                        149.265    (415.996)  (1.894.962)  (2.233.889)   12.213.154     7.817.572
+---------------------------------------------------------------------------------------------------------------------------
+Nota: Los gastos iniciales, desembolsados en el momento 0, se imputan al resultado del primer año.
+El resultado por venta surge de comparar el valor de desecho con el valor contable del rodado,
+totalmente amortizado al quinto año.
+
+El resultado operativo es negativo en todos los años: los ahorros generados por el reemplazo de la
+4x4 no alcanzan a cubrir los costos de tenencia y la amortización del vehículo. El resultado neto de
+los primeros cuatro años depende del RECPAM que genera el préstamo en pesos a tasa fija, y el del
+quinto año del valor de desecho del utilitario. En el acumulado de los cinco años, el resultado neto
+incremental asciende a $7.817.572.
+
+3.9. FLUJO DE FONDOS
+
+Siguiendo a Sapag Chain (2011), se construyen dos flujos. El flujo del proyecto mide la rentabilidad
+de la inversión con independencia de su forma de financiamiento. El flujo del inversionista
+incorpora el préstamo del INAES y su servicio, y mide la conveniencia de la alternativa para la
+cooperativa. Como la entidad está exenta del impuesto a las ganancias, la amortización no genera
+ahorro fiscal y se reintegra después del cálculo de la utilidad.
+
+Cuadro 3.5. Flujo de fondos de la alternativa 3 (pesos de septiembre de 2026)
+--------------------------------------------------------------------------------------------------------------------------
+Concepto                                            Año 0        Año 1        Año 2        Año 3        Año 4        Año 5
+--------------------------------------------------------------------------------------------------------------------------
+Ahorros de costos                                       -    7.800.000    7.800.000    7.800.000    7.800.000    7.800.000
+Costos operativos del utilitario                        -  (3.149.890)  (3.149.890)  (3.824.890)  (3.749.890)  (3.824.890)
+Amortización del utilitario                             -  (6.786.210)  (6.786.210)  (6.786.210)  (6.786.210)  (6.786.210)
+Utilidad antes de impuesto                              -  (2.136.100)  (2.136.100)  (2.811.100)  (2.736.100)  (2.811.100)
+Impuesto a las ganancias (exenta)                       -            -            -            -            -            -
+Utilidad neta                                           -  (2.136.100)  (2.136.100)  (2.811.100)  (2.736.100)  (2.811.100)
+Ajuste por amortización                                 -    6.786.210    6.786.210    6.786.210    6.786.210    6.786.210
+Inversión en el utilitario (con IVA)         (37.494.500)            -            -            -            -            -
+Gastos iniciales                              (1.500.000)            -            -            -            -            -
+Recupero del IVA                                        -    3.563.450            -            -            -            -
+Valor de desecho                                        -            -            -            -            -   13.572.420
+--------------------------------------------------------------------------------------------------------------------------
+Flujo de fondos del proyecto                 (38.994.500)    8.213.560    4.650.110    3.975.110    4.050.110   17.547.530
+--------------------------------------------------------------------------------------------------------------------------
+Préstamo INAES                                 33.931.050            -            -            -            -            -
+Intereses (moneda constante)                            -  (1.648.920)  (1.114.772)    (720.974)    (395.226)    (126.532)
+Amortización del capital (moneda constante)             -  (5.424.769)  (4.849.956)  (4.500.355)  (4.180.874)  (3.884.072)
+Bonificación aplicada                                   -            -            -            -            -    1.291.050
+--------------------------------------------------------------------------------------------------------------------------
+Flujo de fondos del inversionista             (5.063.450)    1.139.871  (1.314.618)  (1.246.219)    (525.989)   14.827.976
+--------------------------------------------------------------------------------------------------------------------------
+
+3.10. INDICADORES DE EVALUACIÓN
+
+Cuadro 3.6. Indicadores de evaluación (tasa de descuento real del 5 % anual)
+--------------------------------------------------------------------------------
+Indicador                                             Proyecto     Inversionista
+--------------------------------------------------------------------------------
+Valor actual neto (VAN)                            (6.439.441)         4.938.589
+Tasa interna de retorno (TIR)                           -0,4 %            19,8 %
+TIR modificada (reinversión al 5 %)                      1,3 %            15,9 %
+Período de recupero simple                      no se recupera         4,47 años
+Período de recupero descontado                  no se recupera         4,57 años
+--------------------------------------------------------------------------------
+
+Considerado en sí mismo, el proyecto no resulta conveniente: su VAN es negativo (-$6.439.441) y su
+TIR real (-0,4 %) es inferior a la tasa de descuento. Con los ahorros derivados de reemplazar
+solamente la 4x4, la inversión en un vehículo propio no se recupera dentro del horizonte de
+evaluación.
+
+La incorporación del financiamiento INAES modifica sustancialmente el resultado. El VAN del flujo
+del inversionista asciende a $4.938.589 y su TIR real alcanza el 19,8 %. La diferencia entre ambos
+VAN, $11.378.030, mide el valor que aporta el financiamiento: el préstamo se recibe a valor pleno,
+pero se devuelve con cuotas nominales fijas a una tasa efectiva del 6 % anual, reducida a la mitad
+por la bonificación, en un contexto de inflación esperada muy superior.
+
+Como el flujo del inversionista cambia de signo más de una vez, la TIR debe interpretarse con
+precaución y se informa también la TIR modificada, que supone la reinversión de los excedentes a la
+tasa de descuento. Los flujos negativos de los años 2 a 4 indican que la cooperativa debe aportar
+recursos propios en ese período, porque el servicio de la deuda supera a los ahorros netos. El
+aporte se recupera en el quinto año, cuando el préstamo termina de cancelarse con la bonificación y
+se computa el valor de desecho del vehículo.
+
+3.11. COMPARACIÓN CON LA SITUACIÓN ACTUAL
+
+El Cuadro 3.7 compara los costos totales de transporte de ambos escenarios año por año. En la
+alternativa 3 se incluyen los costos que se mantienen (automóvil del asociado 1, combustible y
+fletes remanentes), los costos del utilitario, las cuotas del préstamo en moneda constante, el
+aporte propio inicial, el recupero del IVA y, con signo negativo, el valor de desecho del vehículo.
+
+Cuadro 3.7. Costos totales de transporte y valor actual de costos (pesos de septiembre de 2026)
+--------------------------------------------------------------------------------------------------------------------------
+Concepto                                            Año 0        Año 1        Año 2        Año 3        Año 4        Año 5
+--------------------------------------------------------------------------------------------------------------------------
+Situación actual                                        -   22.440.000   22.440.000   22.440.000   22.440.000   22.440.000
+Alternativa 3 (financiamiento INAES)            5.063.450   21.300.129   23.754.618   23.686.219   22.965.989    7.612.024
+Ahorro de la alternativa 3                    (5.063.450)    1.139.871  (1.314.618)  (1.246.219)    (525.989)   14.827.976
+--------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Valor actual de costos al 5 % real                                       Importe
+--------------------------------------------------------------------------------
+Situación actual                                                      97.153.456
+Alternativa 3                                                         92.214.868
+--------------------------------------------------------------------------------
+Diferencia a favor de la alternativa 3                                 4.938.589
+--------------------------------------------------------------------------------
+
+En valor actual, la alternativa 3 resulta $4.938.589 más económica que la situación actual, importe
+que coincide con el VAN del flujo del inversionista. Sin embargo, el ahorro no es uniforme en el
+tiempo: en los años 2 a 4 la alternativa 3 es más costosa que el esquema vigente, y la ventaja se
+concentra en el primer año, por el recupero del IVA, y en el quinto, por la cancelación bonificada
+del préstamo y el valor residual del vehículo.
+
+3.12. ANÁLISIS DE SENSIBILIDAD
+
+El Cuadro 3.8 muestra el efecto de modificar, de a uno por vez, los supuestos de mayor incidencia
+sobre los resultados.
+
+Cuadro 3.8. Sensibilidad de los resultados (pesos de septiembre de 2026)
+------------------------------------------------------------------------------------------------
+Escenario                                     VAN proyecto  VAN inversionista  TIR inversionista
+------------------------------------------------------------------------------------------------
+Caso base                                      (6.439.441)          4.938.589             19,8 %
+Reemplazo de ambos vehículos                    25.252.328         36.630.358            152,2 %
+Sin ahorro de fletes                          (11.115.276)            262.754              5,7 %
+Valor de desecho nulo (método contable)       (17.073.787)        (5.695.758)            -40,7 %
+Valor de desecho 25 %                         (10.427.321)            950.709              8,5 %
+Valor de desecho 55 %                          (2.451.561)          8.926.468             28,2 %
+Tasa de descuento real 3 %                     (4.264.083)          5.987.009             19,8 %
+Tasa de descuento real 10 %                   (11.036.087)          2.797.782             19,8 %
+Inflación 10 % anual desde 2027                (6.439.441)          2.307.787             11,9 %
+Pérdida de la bonificación por mora            (6.439.441)          3.927.017             17,3 %
+Tipo de cambio 10 % mayor                      (9.110.743)          3.405.089             14,1 %
+Seguro de $250.000 mensuales                  (11.634.813)          (256.783)              4,3 %
+Mantenimiento 50 % mayor                       (8.479.304)          2.898.726             13,6 %
+Patente como camión (1,5 %)                    (5.627.783)          5.750.246             22,4 %
+------------------------------------------------------------------------------------------------
+
+Cuadro 3.9. Valores críticos
+------------------------------------------------------------------------------------------
+Variable                                                                             Valor
+------------------------------------------------------------------------------------------
+Valor de desecho mínimo para VAN del inversionista nulo (% precio neto)             21,4 %
+Pago mensual por la 4x4 que anula el VAN del proyecto                            $ 573.946
+Pago mensual por la 4x4 que anula el VAN del inversionista                       $ 354.943
+------------------------------------------------------------------------------------------
+
+Los resultados permiten extraer las siguientes observaciones:
+  • El valor de desecho es la variable más crítica. Si se lo considera nulo, como ocurriría
+    aplicando el método contable, el VAN del inversionista se vuelve negativo. Para que la
+    alternativa resulte conveniente, el utilitario debe conservar al quinto año al menos el 21,4 %
+    de su precio neto.
+  • El alcance del reemplazo determina la conveniencia del proyecto en sí mismo. Si la cooperativa
+    reorganizara sus cuadrillas de modo que el utilitario reemplace a ambos vehículos, el proyecto
+    sería rentable aun sin financiamiento subsidiado.
+  • El proyecto sin financiamiento solo alcanzaría un VAN nulo si el pago mensual evitado por la 4x4
+    fuera de $573.946, casi un 28 % superior al vigente. Con el financiamiento INAES, en cambio, la
+    alternativa sigue siendo conveniente mientras ese pago supere los $354.943 mensuales.
+  • Los ahorros de fletes y el costo del seguro tienen un peso relevante. Sin el ahorro de fletes, o
+    con un seguro de $250.000 mensuales, el VAN del inversionista resulta prácticamente nulo.
+  • Una inflación menor a la esperada reduce el beneficio del préstamo a tasa fija, aunque el VAN
+    del inversionista se mantiene positivo. Lo mismo ocurre si se pierde la bonificación por atrasos
+    en los pagos o si el tipo de cambio aumenta antes de la compra.
+
+3.13. ASPECTOS OPERATIVOS Y RIESGOS
+
+  • Aprobación y plazos: el otorgamiento del préstamo depende de una decisión discrecional del
+    Directorio del INAES y de la disponibilidad presupuestaria del organismo. La demora en la
+    aprobación expone a la cooperativa a variaciones del tipo de cambio, ya que el precio del
+    vehículo está fijado en dólares.
+  • Garantía: la necesidad de un aval institucional para un préstamo a 60 meses constituye un
+    requisito que la cooperativa debe gestionar con anticipación ante una federación, otra
+    cooperativa o mutual, una sociedad de garantía recíproca o el Fondo de Garantías de Santa Fe.
+  • Liquidez: la alternativa exige un aporte propio inicial de aproximadamente $5,1 millones, que se
+    recupera parcialmente en el primer año con el crédito fiscal del IVA, y aportes adicionales en
+    los años 2 a 4.
+  • Capacidad: la cabina de cinco plazas limita la cantidad de trabajadores trasladados por viaje,
+    lo que explica que el automóvil del asociado 1 deba mantenerse.
+  • Beneficios no cuantificados: la disponibilidad permanente del vehículo, la adecuación para el
+    traslado conjunto de cuadrillas, herramientas y materiales, y la menor dependencia de los
+    rodados de los asociados constituyen mejoras operativas que no se reflejan en el flujo de
+    fondos.
+
+3.14. CONCLUSIONES PARCIALES
+
+La adquisición de un utilitario propio mediante el financiamiento del INAES resulta conveniente para
+la Cooperativa Verde Sano bajo los supuestos adoptados. El VAN del flujo del inversionista es de
+$4.938.589 a una tasa real del 5 % anual, con una TIR real del 19,8 % y un período de recupero de
+4,5 años.
+
+No obstante, la conveniencia de la alternativa se explica por las condiciones del financiamiento y
+no por la inversión en sí misma. Sin el préstamo del INAES, el reemplazo de la 4x4 por un vehículo
+propio presenta un VAN de -$6.439.441. El beneficio surge de un préstamo en pesos a tasa fija y
+bonificada en un contexto inflacionario, que transfiere a la cooperativa un valor de $11.378.030.
+
+En consecuencia, la viabilidad de esta alternativa queda condicionada a la aprobación del préstamo,
+a la constitución de la garantía exigida, al pago puntual de las cuotas y a que el vehículo conserve
+un valor residual razonable al final del horizonte. Estos resultados se compararán con los de las
+restantes alternativas para determinar cuál presenta las mejores condiciones económicas y operativas
+para la cooperativa.
+
+
+FUENTES CONSULTADAS
+
+Libros:
+SAPAG CHAIN, Nassir. Proyectos de inversión: formulación y evaluación, 2ª edición, Pearson
+Educación. Chile, 2011.
+
+Legislación y normativa:
+ARGENTINA. Ley N.° 20.337. Ley de Cooperativas. Buenos Aires, 2 de mayo de 1973.
+ARGENTINA. Ley N.° 23.427. Fondo para Educación y Promoción Cooperativa. Buenos Aires, 1986.
+ARGENTINA. Ley de Impuesto a las Ganancias, texto ordenado en 2019.
+ARGENTINA. INSTITUTO NACIONAL DE ASOCIATIVISMO Y ECONOMÍA SOCIAL. Resolución N.° 1287/2015. Pautas
+para el otorgamiento de apoyos financieros en carácter de préstamos o subsidios. Buenos Aires, 15 de
+junio de 2015.
+ARGENTINA. INSTITUTO NACIONAL DE ASOCIATIVISMO Y ECONOMÍA SOCIAL. Resolución N.° 295/2020.
+Requisitos para la tramitación de solicitudes de apoyo financiero. Buenos Aires, 2020.
+PROVINCIA DE SANTA FE. Código Fiscal, Ley N.° 3456 (t.o. 2014 y modificatorias).
+PROVINCIA DE SANTA FE. ADMINISTRACIÓN PROVINCIAL DE IMPUESTOS. Patente Única sobre Vehículos:
+alícuotas y módulos tributarios, año fiscal 2026.
+
+Otras fuentes:
+BANCO CENTRAL DE LA REPÚBLICA ARGENTINA. Relevamiento de Expectativas de Mercado (REM), agosto de
+2026. Publicado el 4 de septiembre de 2026.
+MAGMA AUTOMOTIVE S.A.S. Lista de precios de productos DFAC Dongfeng, vehículos comerciales, lista
+01/25.
+DONGFENG ARGENTINA. Captain W 412: ficha técnica. Disponible en dongfeng.ar.
+EL CRONISTA. Dólar oficial: cotización del lunes 28 de septiembre de 2026.
+UNO SANTA FE. Revisión Técnica Obligatoria en Santa Fe: tarifas y periodicidad, 2026.
+EL MIÉRCOLES DIGITAL. Apoyos financieros aprobados por el INAES en 2026. 25 de agosto de 2026.
+AIRE DE SANTA FE. Cuánto cuesta asegurar un auto en Argentina en 2026: precios según la cobertura.
